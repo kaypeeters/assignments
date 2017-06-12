@@ -1,4 +1,4 @@
-# assignments
+https://github.com/kaypeeters/assignments/blob/master/Final_Assignment_Python_1_students.ipynb# assignments
 this repository contains my assignments
 
 [assignment week 2](https://github.com/kaypeeters/assignments/blob/master/Assignment_week_2%20(2).ipynb)
@@ -11,4 +11,6 @@ this repository contains my assignments
 
 [assignment week 8](https://github.com/kaypeeters/assignments/blob/master/assignment5.ipynb)
 
-[final python assignment]()
+[final python assignment](https://github.com/kaypeeters/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[final R assignment]()
