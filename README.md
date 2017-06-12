@@ -10,3 +10,5 @@ this repository contains my assignments
 [assignment week 6](https://github.com/kaypeeters/assignments/blob/master/assignment4.ipynb)
 
 [assignment week 8](https://github.com/kaypeeters/assignments/blob/master/assignment5.ipynb)
+
+[final python assignment](http://localhost:8888/notebooks/Documents/Studie/programming/Final_Assignment_Python_1_students.ipynb)
